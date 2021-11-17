@@ -30,19 +30,10 @@
 <img width="719" alt="스크린샷 2021-11-16 오후 10 03 19" src="https://user-images.githubusercontent.com/25360781/141993543-7f4de82c-181a-4529-bd18-5b83f44760bf.png">
 
 
-
-2. UI/UX
-	1. Shake
-	![Shake](https://user-images.githubusercontent.com/25360781/141993596-22ae26cd-0a4a-42be-80d8-fe9f5c1b8914.png)
-	2. Diary
-	![Diary 1](https://user-images.githubusercontent.com/25360781/141993642-a015598a-c658-4710-964a-41f7c2a0e5c2.png)
-	![Diary2](https://user-images.githubusercontent.com/25360781/141993692-86404382-d15c-4aba-91f4-c37a69f0270c.png)
-	3. Routine
-	![Routine 1](https://user-images.githubusercontent.com/25360781/141993820-5525ea32-d234-4d75-bc2b-19a0ebee3786.png)
-	![ Routine 2](https://user-images.githubusercontent.com/25360781/141993858-491f0baa-6a77-4adb-aefd-37360f264a4f.png)
-	![Routine 3](https://user-images.githubusercontent.com/25360781/141993890-3c4d576c-3e8b-4cf0-975b-a81f327a1184.png)
-	4. Setting
-	![Setting](https://user-images.githubusercontent.com/25360781/141993959-f0c57b8e-3a5e-4166-8e3c-8ee785009076.png)
+11.17일(수)
+기획 3일차
+1. 기획 발표 준비
+https://onyx-beryl-72a.notion.site/Hourglass-01c5ae71df7f4fefaea98aae5145506a
 
 
 
