@@ -35,6 +35,10 @@
 1. 기획 발표 준비
 https://onyx-beryl-72a.notion.site/Hourglass-01c5ae71df7f4fefaea98aae5145506a
 
-
-
-	
+11.18(목)
+1. 프로젝트 셋업
+	1. 라이브러리 추가 (Lottie, 
+	2. 폰트와 컬러 Extension, 에셋(icon, 버튼 이미지, 
+	3. Launch Screen
+2. DB Schema
+3. Localized Setting
